@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D39CFDF4-AEE6-41DB-8FC1-C0EEB3654B68}</ProjectGuid>
+    <ProjectGuid>{0938EF51-229B-415C-AE4E-1B7D5C60BEFF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>app_creational_factory</RootNamespace>
-    <AssemblyName>app-creational-factory</AssemblyName>
+    <RootNamespace>app_creational_abstractfactory</RootNamespace>
+    <AssemblyName>app-creational-abstractfactory</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
